@@ -1,0 +1,58 @@
+
+body{
+    margin-top: 2%;
+    margin: 3%;
+}
+
+h1{
+    font-size: 1.5rem;
+}
+
+p{
+    font-size: 1.5rem;
+    margin-top: 1%;
+}
+
+strong{
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+a{
+   text-decoration: none;
+   color: black;
+   font-size: 1.3rem;
+   font-weight: 400;
+}
+nav{
+    word-spacing: 30px;
+}
+
+img{
+    height: auto;
+    width: 100%;
+}
+
+footer{
+margin-top: 20%;
+}
+
+.container_1{
+width: 48.5%;
+}
+.container_2{
+width: 48.5%;
+}
+.block_1{
+    margin-top: 3%;
+}
+.text-password{
+
+}
+.text-licensed{
+margin-left: 20%;
+}
+.text-social{
+margin-left: 20%;
+}
+
